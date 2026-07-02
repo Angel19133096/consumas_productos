@@ -1087,7 +1087,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15489",
@@ -1097,7 +1097,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12976",
@@ -4320,8 +4320,8 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "13857",
-    "descripcion": "CABALLA AC. LCx300G",
+    "codigo_producto": "15266",
+    "descripcion": "CABALLA AC/AG LC x300G",
     "unidad_medida": "Bulto",
     "codigo_barra": "17790580138575",
     "um_venta": "UN",
@@ -4330,8 +4330,8 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "13857",
-    "descripcion": "CABALLA AC. LCx300G",
+    "codigo_producto": "15266",
+    "descripcion": "CABALLA AC/AG LC x300G",
     "unidad_medida": "Unidad",
     "codigo_barra": "7790580138578",
     "um_venta": "UN",
@@ -4340,18 +4340,8 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "13857",
-    "descripcion": "CABALLA AC. LCx300G",
-    "unidad_medida": "Unidad",
-    "codigo_barra": "7793360730504",
-    "um_venta": "UN",
-    "di_bu": "24",
-    "un_di": "1",
-    "operaciones": "Activo"
-  },
-  {
-    "codigo_producto": "13858",
-    "descripcion": "CABALLA NAT. LCx300G",
+    "codigo_producto": "15267",
+    "descripcion": "CABALLA NAT LC x300G",
     "unidad_medida": "Bulto",
     "codigo_barra": "17790580138582",
     "um_venta": "UN",
@@ -4360,8 +4350,8 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "13858",
-    "descripcion": "CABALLA NAT. LCx300G",
+    "codigo_producto": "15267",
+    "descripcion": "CABALLA NAT LC x300G",
     "unidad_medida": "Unidad",
     "codigo_barra": "7790580138585",
     "um_venta": "UN",
@@ -5657,25 +5647,25 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
-    "codigo_producto": "10582",
+    "codigo_producto": "15506",
     "descripcion": "CHOC.FLIAR.AGUILA x 225G",
     "unidad_medida": "Display",
     "codigo_barra": "7790580005825",
     "um_venta": "UN",
-    "di_bu": "6",
+    "di_bu": "3",
     "un_di": "12",
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "10582",
+    "codigo_producto": "15506",
     "descripcion": "CHOC.FLIAR.AGUILA x 225G",
     "unidad_medida": "Unidad",
     "codigo_barra": "7790580105822",
     "um_venta": "UN",
-    "di_bu": "6",
+    "di_bu": "3",
     "un_di": "12",
     "operaciones": "Activo"
   },
@@ -6157,16 +6147,16 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
-    "codigo_producto": "14400",
-    "descripcion": "COF AVELLANAS x140G",
+    "codigo_producto": "15471",
+    "descripcion": "COFLER AVELLANAS x140G",
     "unidad_medida": "Unidad",
     "codigo_barra": "7790580144005",
     "um_venta": "UN",
-    "di_bu": "36",
-    "un_di": "1",
+    "di_bu": "2",
+    "un_di": "18",
     "operaciones": "Activo"
   },
   {
@@ -8107,7 +8097,7 @@
     "um_venta": "UN",
     "di_bu": "60",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13991",
@@ -8117,7 +8107,7 @@
     "um_venta": "UN",
     "di_bu": "60",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15344",
@@ -21267,7 +21257,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "6768",
@@ -21277,7 +21267,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "6770",
@@ -21287,7 +21277,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "6770",
@@ -21297,7 +21287,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13776",
@@ -21806,6 +21796,566 @@
     "codigo_barra": "7790580137991",
     "um_venta": "DI",
     "di_bu": "2",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14230",
+    "descripcion": "TOP LINE MENTA x20U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580142305",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "20",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "14230",
+    "descripcion": "TOP LINE MENTA x20U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580142308",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "20",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "14504",
+    "descripcion": "ROCKLETS D.P. x130G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580145047",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14504",
+    "descripcion": "ROCKLETS D.P. x130G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580145040",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14508",
+    "descripcion": "ROCKLETS MANI D.P x130G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580145085",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14508",
+    "descripcion": "ROCKLETS MANI D.P x130G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580145088",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14509",
+    "descripcion": "MANI MAX COFLER BLOCK D.Px130G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580145092",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14509",
+    "descripcion": "MANI MAX COFLER BLOCK D.Px130G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580145095",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15073",
+    "descripcion": "ROCKLETS MANI x18U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580150737",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15073",
+    "descripcion": "ROCKLETS MANI x18U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580150730",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15197",
+    "descripcion": "MEN PLUS ZERO VIOLET x6U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151970",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15197",
+    "descripcion": "MEN PLUS ZERO VIOLET x6U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151973",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15225",
+    "descripcion": "MEN PLUS ZERO BERRY x6U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152250",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15225",
+    "descripcion": "MEN PLUS ZERO BERRY x6U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152253",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15242",
+    "descripcion": "GALL. BAÑADA BON O BON x 76G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040152424",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15242",
+    "descripcion": "GALL. BAÑADA BON O BON x 76G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040152427",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15338",
+    "descripcion": "RAMEN CUP CARNE 65gr",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580153387",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15338",
+    "descripcion": "RAMEN CUP CARNE 65gr",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580153380",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15339",
+    "descripcion": "RAMEN CUP POLLO 65 gr",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580153394",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15339",
+    "descripcion": "RAMEN CUP POLLO 65 gr",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580153397",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15340",
+    "descripcion": "RAMEN CUP POLLO PIC 65 gr",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580153400",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15340",
+    "descripcion": "RAMEN CUP POLLO PIC 65 gr",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580153403",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15347",
+    "descripcion": "FORMIS FRUTILLA x54G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040153476",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15347",
+    "descripcion": "FORMIS FRUTILLA x54G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040153479",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15348",
+    "descripcion": "FORMIS DDL x54G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040153483",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15348",
+    "descripcion": "FORMIS DDL x54G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040153486",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15350",
+    "descripcion": "FORMIS CHOCOLATE x54G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040153506",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15350",
+    "descripcion": "FORMIS CHOCOLATE x54G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040153509",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15355",
+    "descripcion": "COF TORT BLACK x84G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040153551",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15355",
+    "descripcion": "COF TORT BLACK x84G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040153554",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15356",
+    "descripcion": "COF TORT CHOCO x84G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040153568",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15356",
+    "descripcion": "COF TORT CHOCO x84G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040153561",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15388",
+    "descripcion": "BONOBON DUBAI x18U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580153882",
+    "um_venta": "DI",
+    "di_bu": "16",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15388",
+    "descripcion": "BONOBON DUBAI x18U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580153885",
+    "um_venta": "DI",
+    "di_bu": "16",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15408",
+    "descripcion": "TAB COF EXTRA COOKIE&CREAM x165G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154087",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15408",
+    "descripcion": "TAB COF EXTRA COOKIE&CREAM x165G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580154080",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15408",
+    "descripcion": "TAB COF EXTRA COOKIE&CREAM x165G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580124250",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15410",
+    "descripcion": "TABL COFL EXTRA DOB.MOUSSE x165G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580126244",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15410",
+    "descripcion": "TABL COFL EXTRA DOB.MOUSSE x165G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580126247",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15410",
+    "descripcion": "TABL COFL EXTRA DOB.MOUSSE x165G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580126742",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15412",
+    "descripcion": "TAB COFL EXTRA CHOCOTOR x165G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154124",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15412",
+    "descripcion": "TAB COFL EXTRA CHOCOTOR x165G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580154127",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15412",
+    "descripcion": "TAB COFL EXTRA CHOCOTOR x165G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580126261",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15413",
+    "descripcion": "COF BLOCK GOLD x35G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154131",
+    "um_venta": "UN",
+    "di_bu": "8",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15413",
+    "descripcion": "COF BLOCK GOLD x35G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580154134",
+    "um_venta": "UN",
+    "di_bu": "8",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15413",
+    "descripcion": "COF BLOCK GOLD x35G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580126124",
+    "um_venta": "UN",
+    "di_bu": "8",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15471",
+    "descripcion": "COFLER AVELLANAS x140G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154711",
+    "um_venta": "UN",
+    "di_bu": "2",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15471",
+    "descripcion": "COFLER AVELLANAS x140G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580154714",
+    "um_venta": "UN",
+    "di_bu": "2",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15481",
+    "descripcion": "LATA 75 AÑOS ARCOR",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040154817",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "3",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15481",
+    "descripcion": "LATA 75 AÑOS ARCOR",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040154810",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "3",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15483",
+    "descripcion": "B.TOFFEES PISTACHO x648G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154834",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "108",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15483",
+    "descripcion": "B.TOFFEES PISTACHO x648G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580154837",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "108",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15506",
+    "descripcion": "CHOC.FLIAR.AGUILA x 225G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155060",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "12",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15535",
+    "descripcion": "BOB BITES D.P. x130G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155350",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15535",
+    "descripcion": "BOB BITES D.P. x130G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155353",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15549",
+    "descripcion": "\"H\" BARRITA AG PISTACHO 24x50cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155497",
+    "um_venta": "BU",
+    "di_bu": "24",
     "un_di": "1",
     "operaciones": "Activo"
   }
