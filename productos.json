@@ -2760,26 +2760,6 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "15043",
-    "descripcion": "BEB ARCOR MANZANA x1L",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580150430",
-    "um_venta": "UN",
-    "di_bu": "12",
-    "un_di": "1",
-    "operaciones": "Activo"
-  },
-  {
-    "codigo_producto": "15043",
-    "descripcion": "BEB ARCOR MANZANA x1L",
-    "unidad_medida": "Unidad",
-    "codigo_barra": "7790580150433",
-    "um_venta": "UN",
-    "di_bu": "12",
-    "un_di": "1",
-    "operaciones": "Activo"
-  },
-  {
     "codigo_producto": "14198",
     "descripcion": "BEB ARCOR MANZANA x1L",
     "unidad_medida": "Bulto",
@@ -2800,20 +2780,20 @@
     "operaciones": "Inactivo"
   },
   {
-    "codigo_producto": "15044",
-    "descripcion": "BEB ARCOR MULTIFRUTA x1L",
+    "codigo_producto": "15043",
+    "descripcion": "BEB ARCOR MANZANA x1L",
     "unidad_medida": "Bulto",
-    "codigo_barra": "17790580150447",
+    "codigo_barra": "17790580150430",
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "15044",
-    "descripcion": "BEB ARCOR MULTIFRUTA x1L",
+    "codigo_producto": "15043",
+    "descripcion": "BEB ARCOR MANZANA x1L",
     "unidad_medida": "Unidad",
-    "codigo_barra": "7790580150440",
+    "codigo_barra": "7790580150433",
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
@@ -2838,6 +2818,26 @@
     "di_bu": "12",
     "un_di": "1",
     "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15044",
+    "descripcion": "BEB ARCOR MULTIFRUTA x1L",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580150447",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15044",
+    "descripcion": "BEB ARCOR MULTIFRUTA x1L",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580150440",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14196",
@@ -4402,16 +4402,6 @@
   {
     "codigo_producto": "15266",
     "descripcion": "CABALLA AC/AG LC x300G",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580138575",
-    "um_venta": "UN",
-    "di_bu": "24",
-    "un_di": "1",
-    "operaciones": "Activo"
-  },
-  {
-    "codigo_producto": "15266",
-    "descripcion": "CABALLA AC/AG LC x300G",
     "unidad_medida": "Unidad",
     "codigo_barra": "7790580138578",
     "um_venta": "UN",
@@ -4420,10 +4410,20 @@
     "operaciones": "Activo"
   },
   {
+    "codigo_producto": "15266",
+    "descripcion": "CABALLA AC/AG LC x300G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580138575",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
     "codigo_producto": "13858",
     "descripcion": "CABALLA NAT. LCx300G",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580138582",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580138585",
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
@@ -4432,8 +4432,8 @@
   {
     "codigo_producto": "13858",
     "descripcion": "CABALLA NAT. LCx300G",
-    "unidad_medida": "Unidad",
-    "codigo_barra": "7790580138585",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580138582",
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
@@ -5722,32 +5722,22 @@
   {
     "codigo_producto": "15506",
     "descripcion": "CHOC.FLIAR.AGUILA x 225G",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580155060",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580005825",
     "um_venta": "UN",
     "di_bu": "3",
     "un_di": "12",
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "10582",
-    "descripcion": "CHOC.FLIAR.AGUILA x 225G",
-    "unidad_medida": "Display",
-    "codigo_barra": "7790580005825",
-    "um_venta": "UN",
-    "di_bu": "6",
-    "un_di": "12",
-    "operaciones": "Inactivo"
-  },
-  {
-    "codigo_producto": "10582",
+    "codigo_producto": "15506",
     "descripcion": "CHOC.FLIAR.AGUILA x 225G",
     "unidad_medida": "Unidad",
     "codigo_barra": "7790580105822",
     "um_venta": "UN",
-    "di_bu": "6",
+    "di_bu": "3",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10582",
@@ -5758,6 +5748,16 @@
     "di_bu": "6",
     "un_di": "12",
     "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15506",
+    "descripcion": "CHOC.FLIAR.AGUILA x 225G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155060",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "12",
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12901",
@@ -6230,16 +6230,6 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "14400",
-    "descripcion": "COF AVELLANAS x140G",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580144002",
-    "um_venta": "UN",
-    "di_bu": "36",
-    "un_di": "1",
-    "operaciones": "Inactivo"
-  },
-  {
     "codigo_producto": "15471",
     "descripcion": "COFLER AVELLANAS x140G",
     "unidad_medida": "Unidad",
@@ -6248,6 +6238,16 @@
     "di_bu": "2",
     "un_di": "18",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14400",
+    "descripcion": "COF AVELLANAS x140G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580144002",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15413",
@@ -6300,16 +6300,6 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "14609",
-    "descripcion": "COF LEC C/ROCK x140G",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580146099",
-    "um_venta": "UN",
-    "di_bu": "36",
-    "un_di": "1",
-    "operaciones": "Inactivo"
-  },
-  {
     "codigo_producto": "15470",
     "descripcion": "COFLER ROCKLETS x140G",
     "unidad_medida": "Unidad",
@@ -6318,6 +6308,16 @@
     "di_bu": "2",
     "un_di": "18",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14609",
+    "descripcion": "COF LEC C/ROCK x140G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580146099",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14608",
@@ -7060,16 +7060,6 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "12897",
-    "descripcion": "COFLER LEC x140G",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580128972",
-    "um_venta": "UN",
-    "di_bu": "36",
-    "un_di": "1",
-    "operaciones": "Inactivo"
-  },
-  {
     "codigo_producto": "15467",
     "descripcion": "COFLER LECHE x140G",
     "unidad_medida": "Unidad",
@@ -7080,24 +7070,14 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "15469",
-    "descripcion": "COFLER LEC/ALM x140G",
+    "codigo_producto": "12897",
+    "descripcion": "COFLER LEC x140G",
     "unidad_medida": "Bulto",
-    "codigo_barra": "17790580154698",
+    "codigo_barra": "17790580128972",
     "um_venta": "UN",
-    "di_bu": "2",
-    "un_di": "18",
-    "operaciones": "Activo"
-  },
-  {
-    "codigo_producto": "15469",
-    "descripcion": "COFLER LEC/ALM x140G",
-    "unidad_medida": "Unidad",
-    "codigo_barra": "7790580154691",
-    "um_venta": "UN",
-    "di_bu": "2",
-    "un_di": "18",
-    "operaciones": "Activo"
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12899",
@@ -7118,6 +7098,26 @@
     "di_bu": "36",
     "un_di": "1",
     "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15469",
+    "descripcion": "COFLER LEC/ALM x140G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154698",
+    "um_venta": "UN",
+    "di_bu": "2",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15469",
+    "descripcion": "COFLER LEC/ALM x140G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580154691",
+    "um_venta": "UN",
+    "di_bu": "2",
+    "un_di": "18",
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10350",
@@ -21310,6 +21310,16 @@
     "operaciones": "Activo"
   },
   {
+    "codigo_producto": "13792",
+    "descripcion": "TOP LINE 7 BUBBLE x16U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580137929",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "16",
+    "operaciones": "Inactivo"
+  },
+  {
     "codigo_producto": "15404",
     "descripcion": "TOP LINE 7 BUBBLE x16U",
     "unidad_medida": "Bulto",
@@ -21330,14 +21340,14 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "13792",
-    "descripcion": "TOP LINE 7 BUBBLE x16U",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580137929",
+    "codigo_producto": "3269",
+    "descripcion": "TOP LINE 7 MAND.x 16 UN.",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580326906",
     "um_venta": "DI",
     "di_bu": "36",
     "un_di": "16",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15518",
@@ -21352,22 +21362,22 @@
   {
     "codigo_producto": "3269",
     "descripcion": "TOP LINE 7 MAND.x 16 UN.",
-    "unidad_medida": "Display",
-    "codigo_barra": "7790580326906",
-    "um_venta": "DI",
-    "di_bu": "36",
-    "un_di": "16",
-    "operaciones": "Activo"
-  },
-  {
-    "codigo_producto": "3269",
-    "descripcion": "TOP LINE 7 MAND.x 16 UN.",
     "unidad_medida": "Bulto",
     "codigo_barra": "17790580326903",
     "um_venta": "DI",
     "di_bu": "36",
     "un_di": "16",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12334",
+    "descripcion": "TOP LINE 7 MENTHOL x16U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580123342",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "16",
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15522",
@@ -21388,16 +21398,6 @@
     "di_bu": "20",
     "un_di": "16",
     "operaciones": "Activo"
-  },
-  {
-    "codigo_producto": "12334",
-    "descripcion": "TOP LINE 7 MENTHOL x16U",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580123342",
-    "um_venta": "DI",
-    "di_bu": "36",
-    "un_di": "16",
-    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15406",
@@ -21460,16 +21460,6 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "5111",
-    "descripcion": "TOP LINE 7 STRAWBERRY x 16 UN.",
-    "unidad_medida": "Bulto",
-    "codigo_barra": "17790580511101",
-    "um_venta": "DI",
-    "di_bu": "36",
-    "un_di": "16",
-    "operaciones": "Inactivo"
-  },
-  {
     "codigo_producto": "15519",
     "descripcion": "TOP LINE 7 STRAWBERRY x16U",
     "unidad_medida": "Display",
@@ -21478,6 +21468,16 @@
     "di_bu": "20",
     "un_di": "16",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "5111",
+    "descripcion": "TOP LINE 7 STRAWBERRY x 16 UN.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580511101",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "16",
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15519",
@@ -22486,6 +22486,266 @@
     "codigo_barra": "7790580137991",
     "um_venta": "DI",
     "di_bu": "2",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4003269",
+    "descripcion": "\"I\"BAÑO REP.SEMI P/HEL.X 10 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580032699",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4007504",
+    "descripcion": "\"I\"BALDE CHANTILLY X 20 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "7790407075048",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4007507",
+    "descripcion": "\"I\" POLVO HEL.NEUTRO x 20 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "7790407075079",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009297",
+    "descripcion": "\"I\" COBERTURA S/A TAB x 10KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580092976",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009323",
+    "descripcion": "\"I\" GOTAS BCAS. AGUILA x 5KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580093232",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009325",
+    "descripcion": "\"I\" MINIGOTAS COMP. S/A AGUILA x 5KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580093256",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009330",
+    "descripcion": "\"I\" BAÑO REP. S/A P/GRAN. x10KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580093300",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009455",
+    "descripcion": "\"I\" CH AM 60% CACAO AG x5KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580094550",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009641",
+    "descripcion": "\"I\" GOTAS MAPRIC.S/A.x 10 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580964105",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009744",
+    "descripcion": "\"I\"RELL.MANI P/BARRA Y BOMB.x 10 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580097445",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009763",
+    "descripcion": "\"I\"BAÑO REP.SEM.x 5 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580097636",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009766",
+    "descripcion": "\"I\"BAÑO REP.BCO.AGUILA x 5 KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580097667",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009773",
+    "descripcion": "\"I\"GOTAS LECHE GRANEL x 5KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580097735",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009780",
+    "descripcion": "\"I\" ROCKLET x 10 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580097803",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009975",
+    "descripcion": "\"I\" MINI ROCKLET GNEL x 9KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580099753",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009979",
+    "descripcion": "\"I\"COB.BCO.AGUILA TAB.x 5 KG",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580099791",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009984",
+    "descripcion": "\"I\"CHOC.COB.AMARGO X 5 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580099845",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009985",
+    "descripcion": "\"I\"CHOC.TAB.S/A.AGUILA x 5 KG.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580099852",
+    "um_venta": "BU",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009324",
+    "descripcion": "\"I\" BON O BON SNACK x 800G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580093249",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009324",
+    "descripcion": "\"I\" BON O BON SNACK x 800G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580093242",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009415",
+    "descripcion": "\"I\"BAÑO REP.LECHE MAPRIC. x800G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580094154",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009415",
+    "descripcion": "\"I\"BAÑO REP.LECHE MAPRIC. x800G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580094157",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009416",
+    "descripcion": "\"I\"BAÑO S.A. MAPRICO x800G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580094161",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009416",
+    "descripcion": "\"I\"BAÑO S.A. MAPRICO x800G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580094164",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009417",
+    "descripcion": "\"I\"BAÑO BCO.MAPRICUBER x800G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580094178",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "4009417",
+    "descripcion": "\"I\"BAÑO BCO.MAPRICUBER x800G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580094171",
+    "um_venta": "UN",
+    "di_bu": "6",
     "un_di": "1",
     "operaciones": "Activo"
   }
