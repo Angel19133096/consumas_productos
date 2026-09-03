@@ -127,7 +127,7 @@
     "um_venta": "DI",
     "di_bu": "36",
     "un_di": "16",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "4013",
@@ -1417,7 +1417,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14171",
@@ -1427,7 +1427,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14353",
@@ -3347,7 +3347,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14692",
@@ -3357,7 +3357,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "1042",
@@ -3427,7 +3427,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15155",
@@ -3437,7 +3437,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "BMG1019",
@@ -3827,7 +3827,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13640",
@@ -3837,7 +3837,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15393",
@@ -3987,7 +3987,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12717",
@@ -3997,7 +3997,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12720",
@@ -4007,7 +4007,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12720",
@@ -4017,7 +4017,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15296",
@@ -4607,7 +4607,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "130",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12694",
@@ -4617,7 +4617,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "130",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14356",
@@ -4727,7 +4727,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13594",
@@ -4737,7 +4737,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "3792",
@@ -5897,7 +5897,7 @@
     "um_venta": "UN",
     "di_bu": "32",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14241",
@@ -5907,7 +5907,7 @@
     "um_venta": "UN",
     "di_bu": "32",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14885",
@@ -9077,7 +9077,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15309",
@@ -9087,7 +9087,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10631",
@@ -9097,7 +9097,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10631",
@@ -9107,7 +9107,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13644",
@@ -9117,7 +9117,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13644",
@@ -9127,7 +9127,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14563",
@@ -9627,7 +9627,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "3",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15485",
@@ -9637,7 +9637,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "3",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13608",
@@ -11047,7 +11047,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "18",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14443",
@@ -11057,7 +11057,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "18",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14442",
@@ -11557,7 +11557,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "48",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14501",
@@ -11567,7 +11567,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "48",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "2232",
@@ -11817,7 +11817,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13981",
@@ -11827,7 +11827,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12904",
@@ -11907,7 +11907,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10620",
@@ -11917,7 +11917,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10619",
@@ -11927,7 +11927,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10619",
@@ -11937,7 +11937,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14509",
@@ -11987,7 +11987,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14173",
@@ -11997,7 +11997,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15182",
@@ -12007,7 +12007,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15182",
@@ -12017,7 +12017,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10673",
@@ -12027,7 +12027,7 @@
     "um_venta": "DI",
     "di_bu": "10",
     "un_di": "266",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10673",
@@ -12037,7 +12037,7 @@
     "um_venta": "DI",
     "di_bu": "10",
     "un_di": "266",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "1782",
@@ -14067,7 +14067,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "4181",
@@ -14077,7 +14077,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15102",
@@ -14107,7 +14107,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14730",
@@ -14117,7 +14117,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14872",
@@ -14327,7 +14327,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14774",
@@ -14337,7 +14337,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15224",
@@ -14487,7 +14487,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15162",
@@ -14497,7 +14497,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14748",
@@ -14567,7 +14567,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14751",
@@ -14577,7 +14577,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15509",
@@ -15187,7 +15187,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "11190",
@@ -15197,7 +15197,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15223",
@@ -15467,7 +15467,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15271",
@@ -15477,7 +15477,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "6171",
@@ -16117,7 +16117,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "24",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14500",
@@ -16127,7 +16127,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "24",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14993",
@@ -16777,7 +16777,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12727",
@@ -16787,7 +16787,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12726",
@@ -16797,7 +16797,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12726",
@@ -16807,7 +16807,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12725",
@@ -16817,7 +16817,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12725",
@@ -16827,7 +16827,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12731",
@@ -16837,7 +16837,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12731",
@@ -16847,7 +16847,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15248",
@@ -17197,7 +17197,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "7",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14223",
@@ -17207,7 +17207,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "7",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13315",
@@ -17417,7 +17417,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13111",
@@ -17427,7 +17427,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13113",
@@ -17567,7 +17567,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13583",
@@ -17577,7 +17577,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14206",
@@ -17587,7 +17587,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14206",
@@ -17597,7 +17597,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14206",
@@ -17607,7 +17607,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14208",
@@ -17617,7 +17617,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14208",
@@ -17627,7 +17627,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14208",
@@ -17637,7 +17637,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13635",
@@ -17647,7 +17647,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13635",
@@ -17657,7 +17657,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13191",
@@ -18577,7 +18577,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15156",
@@ -18587,7 +18587,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12265",
@@ -18877,7 +18877,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "4158",
@@ -18887,7 +18887,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15208",
@@ -21347,7 +21347,7 @@
     "um_venta": "DI",
     "di_bu": "36",
     "un_di": "16",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15518",
@@ -21357,7 +21357,7 @@
     "um_venta": "DI",
     "di_bu": "20",
     "un_di": "16",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "3269",
@@ -21367,7 +21367,7 @@
     "um_venta": "DI",
     "di_bu": "36",
     "un_di": "16",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12334",
@@ -22267,7 +22267,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "3116",
@@ -22277,7 +22277,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "3116",
@@ -22287,7 +22287,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15004",
@@ -22367,7 +22367,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "2404",
@@ -22377,7 +22377,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "2404",
@@ -22387,7 +22387,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13650",
@@ -22748,5 +22748,545 @@
     "di_bu": "6",
     "un_di": "1",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15491",
+    "descripcion": "ALF.TOFI 3 LECHE x73G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040154916",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15491",
+    "descripcion": "ALF.TOFI 3 LECHE x73G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040154919",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15526",
+    "descripcion": "CHI POOSH FRUTILLA x40U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155268",
+    "um_venta": "DI",
+    "di_bu": "18",
+    "un_di": "40",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15526",
+    "descripcion": "CHI POOSH FRUTILLA x40U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155261",
+    "um_venta": "DI",
+    "di_bu": "18",
+    "un_di": "40",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15094",
+    "descripcion": "CHI POOSH TUTTI FRUTI x40U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580150942",
+    "um_venta": "DI",
+    "di_bu": "18",
+    "un_di": "40",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15094",
+    "descripcion": "CHI POOSH TUTTI FRUTI x40U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580150945",
+    "um_venta": "DI",
+    "di_bu": "18",
+    "un_di": "40",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15093",
+    "descripcion": "CHI POOSH UVA x40U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580150935",
+    "um_venta": "DI",
+    "di_bu": "18",
+    "un_di": "40",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15093",
+    "descripcion": "CHI POOSH UVA x40U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580150938",
+    "um_venta": "DI",
+    "di_bu": "18",
+    "un_di": "40",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15639",
+    "descripcion": "CHOCOLINAS RELL KIT MERIENDA",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040156392",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15639",
+    "descripcion": "CHOCOLINAS RELL KIT MERIENDA",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040156395",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15533",
+    "descripcion": "COFL BLOCK MAX MITI MITI x100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155336",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15533",
+    "descripcion": "COFL BLOCK MAX MITI MITI x100G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580155155",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15531",
+    "descripcion": "J.P ARCOR LIMONADA 2LTS x18U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155312",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15531",
+    "descripcion": "J.P ARCOR LIMONADA 2LTS x18U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155315",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15298",
+    "descripcion": "J.P ARCOR NARANJA 2LTS x18U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152984",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15298",
+    "descripcion": "J.P ARCOR NARANJA 2LTS x18U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152987",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15529",
+    "descripcion": "LENT 3 PLACERES COFLER x120G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155299",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15529",
+    "descripcion": "LENT 3 PLACERES COFLER x120G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580155292",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15590",
+    "descripcion": "MINI TUB HECHIZADOS HW 100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155909",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15590",
+    "descripcion": "MINI TUB HECHIZADOS HW 100G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15617",
+    "descripcion": "MOGUL ARAÑITA HW 12x30G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "90101015617",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15617",
+    "descripcion": "MOGUL ARAÑITA HW 12x30G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580156176",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15618",
+    "descripcion": "MOGUL CEREBRITOS HW 12x30G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156180",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15618",
+    "descripcion": "MOGUL CEREBRITOS HW 12x30G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580156183",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15160",
+    "descripcion": "MOGUL FANTASMAS HW 12x30G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151604",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15160",
+    "descripcion": "MOGUL FANTASMAS HW 12x30G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151607",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15161",
+    "descripcion": "MOGUL FANTASMAS HW x500G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151611",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15161",
+    "descripcion": "MOGUL FANTASMAS HW x500G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15187",
+    "descripcion": "MR POPS TERROR 10x12.5g",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151871",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "10",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15187",
+    "descripcion": "MR POPS TERROR 10x12.5g",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "10",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15579",
+    "descripcion": "OBLEA BOB MEGA LECHE 12x48G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155794",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15579",
+    "descripcion": "OBLEA BOB MEGA LECHE 12x48G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155797",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15624",
+    "descripcion": "PAN DULCE BAG ARAND. Y CHIP x400G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040156248",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15624",
+    "descripcion": "PAN DULCE BAG ARAND. Y CHIP x400G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040156241",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15230",
+    "descripcion": "PASSATA TOMATE LC x570G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580119987",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15230",
+    "descripcion": "PASSATA TOMATE LC x570G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580119980",
+    "um_venta": "UN",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15578",
+    "descripcion": "POSTRE AG MOUS/AVELL x160G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155787",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15578",
+    "descripcion": "POSTRE AG MOUS/AVELL x160G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580155780",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15641",
+    "descripcion": "POSTRE AG PEANUT BUTTER x160G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156418",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15641",
+    "descripcion": "POSTRE AG PEANUT BUTTER x160G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15545",
+    "descripcion": "RAMEN ARC CARNE x65G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155459",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15545",
+    "descripcion": "RAMEN ARC CARNE x65G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580155452",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15671",
+    "descripcion": "ROCKETS MINI MOMIA HW x44u",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156715",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "44",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15671",
+    "descripcion": "ROCKETS MINI MOMIA HW x44u",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580156718",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "44",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15593",
+    "descripcion": "SALADIX CHEDDAR x35G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040155937",
+    "um_venta": "UN",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15593",
+    "descripcion": "SALADIX CHEDDAR x35G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040155930",
+    "um_venta": "UN",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15563",
+    "descripcion": "SALADIX CHEDDAR x90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040155630",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15563",
+    "descripcion": "SALADIX CHEDDAR x90G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040155633",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15466",
+    "descripcion": "TAB RELL BOB BCA x160G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154667",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15466",
+    "descripcion": "TAB RELL BOB BCA x160G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580154660",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15440",
+    "descripcion": "TOPLINE 7 VIBRANT MINT x50g",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580127203",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15440",
+    "descripcion": "TOPLINE 7 VIBRANT MINT x50g",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580127206",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15591",
+    "descripcion": "TUB MOGUL HECHIZADOS HW 16U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155916",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "16",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15591",
+    "descripcion": "TUB MOGUL HECHIZADOS HW 16U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155919",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "16",
+    "operaciones": "Inactivo"
   }
 ]
