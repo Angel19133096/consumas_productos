@@ -1377,7 +1377,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "4848",
@@ -1387,7 +1387,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14238",
@@ -1397,7 +1397,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14238",
@@ -1407,7 +1407,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14171",
@@ -1417,7 +1417,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14171",
@@ -1427,7 +1427,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14353",
@@ -2847,7 +2847,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14196",
@@ -2857,7 +2857,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15042",
@@ -2867,7 +2867,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15042",
@@ -2877,7 +2877,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15039",
@@ -2987,7 +2987,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10610",
@@ -2997,7 +2997,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10606",
@@ -3347,7 +3347,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14692",
@@ -3357,7 +3357,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "1042",
@@ -3427,7 +3427,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15155",
@@ -3437,7 +3437,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "BMG1019",
@@ -3827,7 +3827,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13640",
@@ -3837,7 +3837,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15393",
@@ -3987,7 +3987,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12717",
@@ -3997,7 +3997,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12720",
@@ -4007,7 +4007,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12720",
@@ -4017,7 +4017,7 @@
     "um_venta": "UN",
     "di_bu": "18",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15296",
@@ -4420,24 +4420,24 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "13858",
-    "descripcion": "CABALLA NAT. LCx300G",
+    "codigo_producto": "15267",
+    "descripcion": "CABALLA NAT LC x300G",
     "unidad_medida": "Unidad",
     "codigo_barra": "7790580138585",
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
-    "codigo_producto": "13858",
-    "descripcion": "CABALLA NAT. LCx300G",
+    "codigo_producto": "15267",
+    "descripcion": "CABALLA NAT LC x300G",
     "unidad_medida": "Bulto",
     "codigo_barra": "17790580138582",
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14349",
@@ -4607,7 +4607,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "130",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12694",
@@ -4617,7 +4617,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "130",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14356",
@@ -4727,7 +4727,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13594",
@@ -4737,7 +4737,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "3792",
@@ -5027,7 +5027,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "15",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12903",
@@ -5037,7 +5037,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "15",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12903",
@@ -5047,7 +5047,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "15",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15061",
@@ -5297,7 +5297,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "15",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14347",
@@ -5307,7 +5307,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "15",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14347",
@@ -5317,7 +5317,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "15",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15021",
@@ -5897,7 +5897,7 @@
     "um_venta": "UN",
     "di_bu": "32",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14241",
@@ -5907,7 +5907,7 @@
     "um_venta": "UN",
     "di_bu": "32",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14885",
@@ -6287,7 +6287,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13978",
@@ -6297,7 +6297,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15470",
@@ -6497,7 +6497,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12898",
@@ -6507,7 +6507,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15468",
@@ -6517,7 +6517,7 @@
     "um_venta": "UN",
     "di_bu": "2",
     "un_di": "18",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15468",
@@ -6527,7 +6527,7 @@
     "um_venta": "UN",
     "di_bu": "2",
     "un_di": "18",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13311",
@@ -7837,7 +7837,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13642",
@@ -7847,7 +7847,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15263",
@@ -8337,7 +8337,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13993",
@@ -8347,7 +8347,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13990",
@@ -8357,7 +8357,7 @@
     "um_venta": "UN",
     "di_bu": "60",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13990",
@@ -8367,7 +8367,7 @@
     "um_venta": "UN",
     "di_bu": "60",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15350",
@@ -8437,7 +8437,7 @@
     "um_venta": "UN",
     "di_bu": "60",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13989",
@@ -8447,7 +8447,7 @@
     "um_venta": "UN",
     "di_bu": "60",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15347",
@@ -8677,7 +8677,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14093",
@@ -8687,7 +8687,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14369",
@@ -9077,7 +9077,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15309",
@@ -9087,7 +9087,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10631",
@@ -9097,7 +9097,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10631",
@@ -9107,7 +9107,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13644",
@@ -9117,7 +9117,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13644",
@@ -9127,7 +9127,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14563",
@@ -9487,7 +9487,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13296",
@@ -9497,7 +9497,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13295",
@@ -9507,7 +9507,7 @@
     "um_venta": "DI",
     "di_bu": "10",
     "un_di": "3",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13295",
@@ -9517,7 +9517,7 @@
     "um_venta": "DI",
     "di_bu": "10",
     "un_di": "3",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13607",
@@ -11067,7 +11067,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "18",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14442",
@@ -11077,7 +11077,7 @@
     "um_venta": "DI",
     "di_bu": "16",
     "un_di": "18",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13183",
@@ -11557,7 +11557,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "48",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14501",
@@ -11567,7 +11567,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "48",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "2232",
@@ -11817,7 +11817,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13981",
@@ -11827,7 +11827,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12904",
@@ -11907,7 +11907,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10620",
@@ -11917,7 +11917,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10619",
@@ -11927,7 +11927,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10619",
@@ -11937,7 +11937,7 @@
     "um_venta": "UN",
     "di_bu": "40",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14509",
@@ -11967,7 +11967,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "4230",
@@ -11977,7 +11977,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14173",
@@ -11987,7 +11987,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14173",
@@ -11997,7 +11997,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15182",
@@ -12007,7 +12007,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15182",
@@ -12017,7 +12017,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "10673",
@@ -12467,7 +12467,7 @@
     "um_venta": "DI",
     "di_bu": "20",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13987",
@@ -12477,7 +12477,7 @@
     "um_venta": "DI",
     "di_bu": "20",
     "un_di": "12",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13977",
@@ -12637,7 +12637,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12696",
@@ -12647,7 +12647,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13797",
@@ -12717,7 +12717,7 @@
     "um_venta": "DI",
     "di_bu": "36",
     "un_di": "30",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13712",
@@ -12727,7 +12727,7 @@
     "um_venta": "DI",
     "di_bu": "36",
     "un_di": "30",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "10129",
@@ -14067,7 +14067,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "4181",
@@ -14077,7 +14077,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15102",
@@ -14107,7 +14107,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14730",
@@ -14117,7 +14117,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14872",
@@ -14327,7 +14327,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14774",
@@ -14337,7 +14337,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15224",
@@ -14487,7 +14487,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15162",
@@ -14497,7 +14497,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14748",
@@ -14567,7 +14567,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14751",
@@ -14577,7 +14577,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15509",
@@ -15187,7 +15187,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "11190",
@@ -15197,7 +15197,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15223",
@@ -15367,7 +15367,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13748",
@@ -15377,7 +15377,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12392",
@@ -15467,7 +15467,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15271",
@@ -15477,7 +15477,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "6171",
@@ -16117,7 +16117,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "24",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14500",
@@ -16127,7 +16127,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "24",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14993",
@@ -16317,7 +16317,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14771",
@@ -16327,7 +16327,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14771",
@@ -16337,7 +16337,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13342",
@@ -16387,7 +16387,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14240",
@@ -16397,7 +16397,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14245",
@@ -16407,7 +16407,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14245",
@@ -16417,7 +16417,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14245",
@@ -16427,7 +16427,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "6",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "11013",
@@ -16597,7 +16597,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14382",
@@ -16607,7 +16607,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "9509",
@@ -16737,7 +16737,7 @@
     "um_venta": "UN",
     "di_bu": "10",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15281",
@@ -16747,7 +16747,7 @@
     "um_venta": "UN",
     "di_bu": "10",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15289",
@@ -16777,7 +16777,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12727",
@@ -16787,7 +16787,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12726",
@@ -16797,7 +16797,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12726",
@@ -16807,7 +16807,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12725",
@@ -16817,7 +16817,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12725",
@@ -16827,7 +16827,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12731",
@@ -16837,7 +16837,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12731",
@@ -16847,7 +16847,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15248",
@@ -16857,7 +16857,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15248",
@@ -16867,7 +16867,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15249",
@@ -16877,7 +16877,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15249",
@@ -16887,7 +16887,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15315",
@@ -16977,7 +16977,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14242",
@@ -16987,7 +16987,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15188",
@@ -17197,7 +17197,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "7",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14223",
@@ -17207,7 +17207,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "7",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13315",
@@ -17417,7 +17417,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13111",
@@ -17427,7 +17427,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13113",
@@ -17437,7 +17437,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13113",
@@ -17447,7 +17447,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13194",
@@ -17567,7 +17567,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13583",
@@ -17577,7 +17577,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14206",
@@ -17587,7 +17587,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14206",
@@ -17597,7 +17597,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14206",
@@ -17607,7 +17607,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14208",
@@ -17617,7 +17617,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14208",
@@ -17627,7 +17627,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "14208",
@@ -17637,7 +17637,7 @@
     "um_venta": "UN",
     "di_bu": "6",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13635",
@@ -17647,7 +17647,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13635",
@@ -17657,7 +17657,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13191",
@@ -18577,7 +18577,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15156",
@@ -18587,7 +18587,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "12265",
@@ -18597,7 +18597,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12265",
@@ -18607,7 +18607,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "11599",
@@ -18657,7 +18657,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "11823",
@@ -18667,7 +18667,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "3274",
@@ -18877,7 +18877,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "4158",
@@ -18887,7 +18887,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15208",
@@ -19897,7 +19897,7 @@
     "um_venta": "UN",
     "di_bu": "20",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12502",
@@ -19907,7 +19907,7 @@
     "um_venta": "UN",
     "di_bu": "20",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12501",
@@ -20017,7 +20017,7 @@
     "um_venta": "UN",
     "di_bu": "20",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "12498",
@@ -20027,7 +20027,7 @@
     "um_venta": "UN",
     "di_bu": "20",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15320",
@@ -20477,7 +20477,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14092",
@@ -20487,7 +20487,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14091",
@@ -20497,7 +20497,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14091",
@@ -20507,7 +20507,7 @@
     "um_venta": "UN",
     "di_bu": "36",
     "un_di": "1",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13348",
@@ -21340,14 +21340,14 @@
     "operaciones": "Activo"
   },
   {
-    "codigo_producto": "3269",
-    "descripcion": "TOP LINE 7 MAND.x 16 UN.",
+    "codigo_producto": "15518",
+    "descripcion": "TOP LINE 7 MAND x16U",
     "unidad_medida": "Display",
     "codigo_barra": "7790580326906",
     "um_venta": "DI",
-    "di_bu": "36",
+    "di_bu": "20",
     "un_di": "16",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15518",
@@ -21727,7 +21727,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "20",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "6900",
@@ -21737,7 +21737,7 @@
     "um_venta": "DI",
     "di_bu": "30",
     "un_di": "20",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "14230",
@@ -21867,7 +21867,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "50",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "13393",
@@ -21877,7 +21877,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "50",
-    "operaciones": "Activo"
+    "operaciones": "Inactivo"
   },
   {
     "codigo_producto": "15006",
@@ -22267,7 +22267,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "3116",
@@ -22277,7 +22277,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "3116",
@@ -22287,7 +22287,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15004",
@@ -22367,7 +22367,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "2404",
@@ -22377,7 +22377,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "2404",
@@ -22387,7 +22387,7 @@
     "um_venta": "UN",
     "di_bu": "4",
     "un_di": "28",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "13650",
@@ -22857,7 +22857,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15533",
@@ -22867,7 +22867,7 @@
     "um_venta": "UN",
     "di_bu": "30",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15531",
@@ -22917,7 +22917,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15529",
@@ -22927,7 +22927,7 @@
     "um_venta": "UN",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15590",
@@ -22937,7 +22937,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15590",
@@ -22947,7 +22947,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15617",
@@ -22957,7 +22957,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15617",
@@ -22967,7 +22967,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15618",
@@ -22977,7 +22977,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15618",
@@ -22987,7 +22987,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15160",
@@ -22997,7 +22997,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15160",
@@ -23007,7 +23007,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "12",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15161",
@@ -23017,7 +23017,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15161",
@@ -23027,7 +23027,7 @@
     "um_venta": "DI",
     "di_bu": "6",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15187",
@@ -23037,7 +23037,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15187",
@@ -23047,7 +23047,7 @@
     "um_venta": "DI",
     "di_bu": "24",
     "un_di": "10",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15579",
@@ -23077,7 +23077,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15624",
@@ -23087,7 +23087,7 @@
     "um_venta": "UN",
     "di_bu": "12",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15230",
@@ -23117,7 +23117,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15578",
@@ -23127,7 +23127,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15641",
@@ -23137,7 +23137,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15641",
@@ -23147,7 +23147,7 @@
     "um_venta": "UN",
     "di_bu": "21",
     "un_di": "1",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15545",
@@ -23177,7 +23177,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "44",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15671",
@@ -23187,7 +23187,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "44",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15593",
@@ -23277,7 +23277,7 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "16",
-    "operaciones": "Inactivo"
+    "operaciones": "Activo"
   },
   {
     "codigo_producto": "15591",
@@ -23287,6 +23287,506 @@
     "um_venta": "DI",
     "di_bu": "12",
     "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15018",
+    "descripcion": "MAST FTAL ACIDO ARCOR 800G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580150188",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15018",
+    "descripcion": "MAST FTAL ACIDO ARCOR 800G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580150181",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15299",
+    "descripcion": "J.P ARCOR MULTIFRUTA 2LTS x18U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152991",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15299",
+    "descripcion": "J.P ARCOR MULTIFRUTA 2LTS x18U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152994",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15300",
+    "descripcion": "J.P ARCOR MANZANA 2LTS x18U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580124844",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15300",
+    "descripcion": "J.P ARCOR MANZANA 2LTS x18U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580124847",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15343",
+    "descripcion": "FORMIS VAI-FRU x90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040153438",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15343",
+    "descripcion": "FORMIS VAI-FRU x90G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040153431",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15492",
+    "descripcion": "BAR RAPTOR LEM.COOK 50G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154926",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15492",
+    "descripcion": "BAR RAPTOR LEM.COOK 50G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580154929",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15492",
+    "descripcion": "BAR RAPTOR LEM.COOK 50G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15493",
+    "descripcion": "BAR RAPTOR DUL.LECHE 50G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580154933",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15493",
+    "descripcion": "BAR RAPTOR DUL.LECHE 50G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580154936",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15493",
+    "descripcion": "BAR RAPTOR DUL.LECHE 50G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15532",
+    "descripcion": "CHOC. AGUILA 60% CACAO 130G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155329",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "15",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15532",
+    "descripcion": "CHOC. AGUILA 60% CACAO 130G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "15",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15532",
+    "descripcion": "CHOC. AGUILA 60% CACAO 130G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "15",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15550",
+    "descripcion": "\"H\" FRAMBUESA PISTACHO 150G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580139770",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15550",
+    "descripcion": "\"H\" FRAMBUESA PISTACHO 150G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15574",
+    "descripcion": "RAMEN ARCOR POLLO 65G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155749",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
     "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15574",
+    "descripcion": "RAMEN ARCOR POLLO 65G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580155742",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15577",
+    "descripcion": "BOM CHOCOLATIER NUT 10U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155770",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15577",
+    "descripcion": "BOM CHOCOLATIER NUT 10U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155773",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15587",
+    "descripcion": "\"H\" PALITO AGUILA DUBAI 16x80cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155879",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15587",
+    "descripcion": "\"H\" PALITO AGUILA DUBAI 16x80cc",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155872",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15589",
+    "descripcion": "MASTI EXT CONF HW 16x30G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155893",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15589",
+    "descripcion": "MASTI EXT CONF HW 16x30G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155896",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15629",
+    "descripcion": "TURRON PISTACHO ARCOR 100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156296",
+    "um_venta": "UN",
+    "di_bu": "35",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15629",
+    "descripcion": "TURRON PISTACHO ARCOR 100G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "35",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15629",
+    "descripcion": "TURRON PISTACHO ARCOR 100G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "35",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15630",
+    "descripcion": "ALMENDRAS MIX BCA/LECHE 90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156302",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15630",
+    "descripcion": "ALMENDRAS MIX BCA/LECHE 90G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15631",
+    "descripcion": "ALMENDRAS BLACK VELVET 90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156319",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15631",
+    "descripcion": "ALMENDRAS BLACK VELVET 90G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15632",
+    "descripcion": "CRUNCHY AGUILA MIX 90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156326",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15632",
+    "descripcion": "CRUNCHY AGUILA MIX 90G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15633",
+    "descripcion": "PASAS AGUILA MAX 90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156333",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15633",
+    "descripcion": "PASAS AGUILA MAX 90G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15674",
+    "descripcion": "MOGUL EXT. OSO ACRILICO",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156746",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15674",
+    "descripcion": "MOGUL EXT. OSO ACRILICO",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580156749",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15700",
+    "descripcion": "M&CHEESE ORIG ARCOR 197G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156388",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15700",
+    "descripcion": "M&CHEESE ORIG ARCOR 197G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580156381",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15701",
+    "descripcion": "M&CHEESE BACON ARCOR 197G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580156364",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15701",
+    "descripcion": "M&CHEESE BACON ARCOR 197G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580156367",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15702",
+    "descripcion": "AGU PISTACHO CH BCO 90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580157026",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15702",
+    "descripcion": "AGU PISTACHO CH BCO 90G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15703",
+    "descripcion": "AGU AVELLANA CH LEC. 90G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580157033",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15703",
+    "descripcion": "AGU AVELLANA CH LEC. 90G",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "bmg1026",
+    "descripcion": "Bolsita Mog Bañ (28)",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "BMG1026",
+    "um_venta": "UN",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "bmg1027",
+    "descripcion": "Bolsita Masti Splash (28)",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "BMG1027",
+    "um_venta": "UN",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
   }
 ]
