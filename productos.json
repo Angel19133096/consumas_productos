@@ -23788,5 +23788,25 @@
     "di_bu": "1",
     "un_di": "1",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13099",
+    "descripcion": "MOGUL CONITOS x220G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580130999",
+    "um_venta": "DI",
+    "di_bu": "16",
+    "un_di": "100",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13099",
+    "descripcion": "MOGUL CONITOS x220G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580130992",
+    "um_venta": "DI",
+    "di_bu": "16",
+    "un_di": "100",
+    "operaciones": "Activo"
   }
 ]
