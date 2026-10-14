@@ -5204,7 +5204,7 @@
     "descripcion": "CHOC AG 60%CAC NJA 10x70G",
     "unidad_medida": "Bulto",
     "codigo_barra": "17790580150225",
-    "um_venta": "DI",
+    "um_venta": "UN",
     "di_bu": "10",
     "un_di": "10",
     "operaciones": "Activo"
@@ -5214,7 +5214,7 @@
     "descripcion": "CHOC AG 60%CAC NJA 10x70G",
     "unidad_medida": "Display",
     "codigo_barra": "7790580150228",
-    "um_venta": "DI",
+    "um_venta": "UN",
     "di_bu": "10",
     "un_di": "10",
     "operaciones": "Activo"
