@@ -23808,5 +23808,45 @@
     "di_bu": "16",
     "un_di": "100",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13250",
+    "descripcion": "JARD+CHOCLO LC x300G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17793360132503",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13250",
+    "descripcion": "JARD+CHOCLO LC x300G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7793360132506",
+    "um_venta": "UN",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13477",
+    "descripcion": "DEDALITOS LC x500G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580134775",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13477",
+    "descripcion": "DEDALITOS LC x500G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580134778",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
   }
 ]
