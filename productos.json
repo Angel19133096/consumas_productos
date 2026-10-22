@@ -23848,5 +23848,855 @@
     "di_bu": "15",
     "un_di": "1",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15366",
+    "descripcion": "CAR M.PLUS 2 UVA 12U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580153660",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15366",
+    "descripcion": "CAR M.PLUS 2 UVA 12U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580153663",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "12",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15576",
+    "descripcion": "BOM CHOCOLATIER DDL 10U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580155763",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15576",
+    "descripcion": "BOM CHOCOLATIER DDL 10U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580155766",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15642",
+    "descripcion": "BAR CM PRO YOG/FRU 38G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040156422",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15642",
+    "descripcion": "BAR CM PRO YOG/FRU 38G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040156425",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15642",
+    "descripcion": "BAR CM PRO YOG/FRU 38G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15643",
+    "descripcion": "BAR CM PRO CHOCOLATE 38G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040156439",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15643",
+    "descripcion": "BAR CM PRO CHOCOLATE 38G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040156432",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15643",
+    "descripcion": "BAR CM PRO CHOCOLATE 38G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "BMR2",
+    "descripcion": "Bolsita Barrita Ag Nja (8)",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "BMR2",
+    "um_venta": "UN",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14273",
+    "descripcion": "\"H\" MOGUL FR-LI AGRUP x6U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "6",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "14723",
+    "descripcion": "POTE BOB ANIV x240G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580147232",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "16",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "14723",
+    "descripcion": "POTE BOB ANIV x240G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580147235",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "16",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "14745",
+    "descripcion": "CREATINA SIN SABOR x300G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580147454",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14745",
+    "descripcion": "CREATINA SIN SABOR x300G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580147457",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14782",
+    "descripcion": "\"H\" FRAMB CHOC LEC x150G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580147829",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14782",
+    "descripcion": "\"H\" FRAMB CHOC LEC x150G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580147822",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14790",
+    "descripcion": "\"H\" BOMBON ESCOC x6U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580147812",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14790",
+    "descripcion": "\"H\" BOMBON ESCOC x6U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580147815",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14818",
+    "descripcion": "FIG OSO BOB x70G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580148185",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "14818",
+    "descripcion": "FIG OSO BOB x70G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580148188",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "12",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "14883",
+    "descripcion": "\"H\" BARRITA AG CR AMx6U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580148833",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14883",
+    "descripcion": "\"H\" BARRITA AG CR AMx6U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580148836",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14887",
+    "descripcion": "\"H\" FRAMB CHOC AMAR x150G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580148871",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14887",
+    "descripcion": "\"H\" FRAMB CHOC AMAR x150G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580148874",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15103",
+    "descripcion": "TUB MOGUL EXT ZOMBIE",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151031",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15103",
+    "descripcion": "TUB MOGUL EXT ZOMBIE",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151034",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15116",
+    "descripcion": "MR POP EV EXP SAND x20U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151161",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15116",
+    "descripcion": "MR POP EV EXP SAND x20U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151164",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15117",
+    "descripcion": "MR POP EV EXP FLLA x20U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580117389",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15117",
+    "descripcion": "MR POP EV EXP FLLA x20U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151171",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15118",
+    "descripcion": "CHUP EVOL FLLA/BLU HW x20U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151185",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15118",
+    "descripcion": "CHUP EVOL FLLA/BLU HW x20U",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "20",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15136",
+    "descripcion": "\"H\" BOMBONC BLOCK BITES x176cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151369",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15136",
+    "descripcion": "\"H\" BOMBONC BLOCK BITES x176cc",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580135416",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15137",
+    "descripcion": "\"H\" BOMB COF DDL BITES x200cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151376",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15138",
+    "descripcion": "\"H\" BOMBONC BOB BITES x176cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151383",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15147",
+    "descripcion": "ALF AG DORADO x50G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040151472",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15147",
+    "descripcion": "ALF AG DORADO x50G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040141209",
+    "um_venta": "UN",
+    "di_bu": "36",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15179",
+    "descripcion": "PALOTE PINTALEN 8x48GR",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151796",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "8",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15179",
+    "descripcion": "PALOTE PINTALEN 8x48GR",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151799",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "8",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15181",
+    "descripcion": "MAST HW x396G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151819",
+    "um_venta": "DI",
+    "di_bu": "20",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15181",
+    "descripcion": "MAST HW x396G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151812",
+    "um_venta": "DI",
+    "di_bu": "20",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15183",
+    "descripcion": "CALAVERA MAST HW x350G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151833",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15183",
+    "descripcion": "CALAVERA MAST HW x350G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151836",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15184",
+    "descripcion": "CALAB MAST HW x200G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17709058015840",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15184",
+    "descripcion": "CALAB MAST HW x200G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151843",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15185",
+    "descripcion": "CHUP BLOO+MURC HW x10U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151857",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15185",
+    "descripcion": "CHUP BLOO+MURC HW x10U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151850",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "10",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15199",
+    "descripcion": "MOG JELLY BEANS HW x100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580151994",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15199",
+    "descripcion": "MOG JELLY BEANS HW x100G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580151997",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15250",
+    "descripcion": "\"H\" BARRITA AG DDL 6x34G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580119963",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15250",
+    "descripcion": "\"H\" BARRITA AG DDL 6x34G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580119966",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15251",
+    "descripcion": "\"H\" BARRITA AG PIST x6U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152519",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15251",
+    "descripcion": "\"H\" BARRITA AG PIST x6U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152512",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "6",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15252",
+    "descripcion": "\"H\" GELATO COF FLLA x450cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152526",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15252",
+    "descripcion": "\"H\" GELATO COF FLLA x450cc",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152529",
+    "um_venta": "UN",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15253",
+    "descripcion": "\"H\" PAL BOMBON CHOC 24x60cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152533",
+    "um_venta": "BU",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15253",
+    "descripcion": "\"H\" PAL BOMBON CHOC 24x60cc",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580152536",
+    "um_venta": "BU",
+    "di_bu": "24",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15255",
+    "descripcion": "\"H\" POSTRE AG ALM x1400cc",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152557",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15255",
+    "descripcion": "\"H\" POSTRE AG ALM x1400cc",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152550",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15262",
+    "descripcion": "CUBANITOS AVELL 16x29G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152625",
+    "um_venta": "DI",
+    "di_bu": "4",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15262",
+    "descripcion": "CUBANITOS AVELL 16x29G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152628",
+    "um_venta": "DI",
+    "di_bu": "4",
+    "un_di": "16",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15282",
+    "descripcion": "PAN DUL COF DDL x450G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040152820",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15282",
+    "descripcion": "PAN DUL COF DDL x450G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040152823",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "1",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15285",
+    "descripcion": "\"H\" COF RELL BOB 16x62G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152854",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15285",
+    "descripcion": "\"H\" COF RELL BOB 16x62G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580152857",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15286",
+    "descripcion": "\"H\" COF CHOC CREAMY 16x62G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152861",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15286",
+    "descripcion": "\"H\" COF CHOC CREAMY 16x62G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580152864",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15287",
+    "descripcion": "\"H\" COF RELL CHOCOT 16x62G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152878",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15287",
+    "descripcion": "\"H\" COF RELL CHOCOT 16x62G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580152871",
+    "um_venta": "BU",
+    "di_bu": "16",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15288",
+    "descripcion": "\"H\" MOG EXT MINI x300G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580152885",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15288",
+    "descripcion": "\"H\" MOG EXT MINI x300G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580152888",
+    "um_venta": "DI",
+    "di_bu": "8",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15290",
+    "descripcion": "CREATINA NARANJA x324GR",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580125070",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15290",
+    "descripcion": "CREATINA NARANJA x324GR",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580125073",
+    "um_venta": "DI",
+    "di_bu": "6",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15297",
+    "descripcion": "BUDIN AG CHIPS x215G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040152974",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15297",
+    "descripcion": "BUDIN AG CHIPS x215G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040152977",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15301",
+    "descripcion": "BUDIN ARC C/CHIPS x215G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040153018",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15301",
+    "descripcion": "BUDIN ARC C/CHIPS x215G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790040153011",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15307",
+    "descripcion": "TURRON ARC COCO x80G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580153073",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "28",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15307",
+    "descripcion": "TURRON ARC COCO x80G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580153076",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "28",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15307",
+    "descripcion": "TURRON ARC COCO x80G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580124793",
+    "um_venta": "UN",
+    "di_bu": "4",
+    "un_di": "28",
+    "operaciones": "Inactivo"
+  },
+  {
+    "codigo_producto": "15308",
+    "descripcion": "GARRAP PIST C/SAL x80G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580153080",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15308",
+    "descripcion": "GARRAP PIST C/SAL x80G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580153083",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
   }
 ]
