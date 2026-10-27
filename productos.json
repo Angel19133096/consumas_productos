@@ -24692,10 +24692,540 @@
   {
     "codigo_producto": "15308",
     "descripcion": "GARRAP PIST C/SAL x80G",
-    "unidad_medida": "Unidad",
+    "unidad_medida": "Display",
     "codigo_barra": "7790580153083",
     "um_venta": "UN",
     "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "BMG1030",
+    "descripcion": "Bolsita Fizz (30)",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "BMG1030",
+    "um_venta": "UN",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "CAJA002",
+    "descripcion": "Caja Navidaña N°2",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "CAJA002",
+    "um_venta": "UN",
+    "di_bu": "1",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "1958",
+    "descripcion": "GARRAPI¥ADA MANI x80 GS.",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580195806",
+    "um_venta": "UN",
+    "di_bu": "40",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "1958",
+    "descripcion": "GARRAPI¥ADA MANI x80 GS.",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580195809",
+    "um_venta": "UN",
+    "di_bu": "40",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2401",
+    "descripcion": "TURRON DE MANI C/MIEL x 120 gr",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580240100",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2401",
+    "descripcion": "TURRON DE MANI C/MIEL x 120 gr",
+    "unidad_medida": "Display",
+    "codigo_barra": "27790580240107",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2401",
+    "descripcion": "TURRON DE MANI C/MIEL x 120 gr",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580240103",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2402",
+    "descripcion": "TURRON DE MANI x 280 gr",
+    "unidad_medida": "Display",
+    "codigo_barra": "17790580240216",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2402",
+    "descripcion": "TURRON DE MANI x 280 gr",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580240219",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2831",
+    "descripcion": "TURRON MANI C/FTA x 120 gr",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580283152",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2831",
+    "descripcion": "TURRON MANI C/FTA x 120 gr",
+    "unidad_medida": "Display",
+    "codigo_barra": "27790580283104",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2831",
+    "descripcion": "TURRON MANI C/FTA x 120 gr",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580283155",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2835",
+    "descripcion": "TURRON DE MANI x 120 gr",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580283503",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2835",
+    "descripcion": "TURRON DE MANI x 120 gr",
+    "unidad_medida": "Display",
+    "codigo_barra": "27790580283500",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2835",
+    "descripcion": "TURRON DE MANI x 120 gr",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580283506",
+    "um_venta": "UN",
+    "di_bu": "3",
+    "un_di": "18",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "11658",
+    "descripcion": "MINI ROCKLETS x 150G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580116580",
+    "um_venta": "UN",
+    "di_bu": "32",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "11658",
+    "descripcion": "MINI ROCKLETS x 150G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580116583",
+    "um_venta": "UN",
+    "di_bu": "32",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12718",
+    "descripcion": "BUDIN ARCOR C/FRUTA x215G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040127187",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12718",
+    "descripcion": "BUDIN ARCOR C/FRUTA x215G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040127180",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12719",
+    "descripcion": "BUDIN ARCOR MARM x215G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040127194",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12719",
+    "descripcion": "BUDIN ARCOR MARM x215G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040127197",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12722",
+    "descripcion": "BUDIN BAG C/FRUT x215G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040127224",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12722",
+    "descripcion": "BUDIN BAG C/FRUT x215G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040127227",
+    "um_venta": "UN",
+    "di_bu": "18",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12882",
+    "descripcion": "MOGUL JELLY BUT x220G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580128828",
+    "um_venta": "DI",
+    "di_bu": "16",
+    "un_di": "46",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "12882",
+    "descripcion": "MOGUL JELLY BUT x220G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580128821",
+    "um_venta": "DI",
+    "di_bu": "16",
+    "un_di": "46",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13757",
+    "descripcion": "ALF MINITORTA DARK x69G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040137575",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13757",
+    "descripcion": "ALF MINITORTA DARK x69G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790040137578",
+    "um_venta": "UN",
+    "di_bu": "21",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13881",
+    "descripcion": "MOGUL PALOT SURT x120G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580138810",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "15",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13881",
+    "descripcion": "MOGUL PALOT SURT x120G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580138813",
+    "um_venta": "DI",
+    "di_bu": "24",
+    "un_di": "15",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13974",
+    "descripcion": "ROCKLETS MAX HW x50G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580139749",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "13974",
+    "descripcion": "ROCKLETS MAX HW x50G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580139742",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14170",
+    "descripcion": "PASAS C/CHOC x100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580141704",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14170",
+    "descripcion": "PASAS C/CHOC x100G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580141707",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14172",
+    "descripcion": "ALMENDRAS C/CH COF x100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580141728",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14172",
+    "descripcion": "ALMENDRAS C/CH COF x100G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580141721",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14221",
+    "descripcion": "CHUP HW DRACU x24U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580142213",
+    "um_venta": "DI",
+    "di_bu": "15",
+    "un_di": "24",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14221",
+    "descripcion": "CHUP HW DRACU X24u",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580142216",
+    "um_venta": "DI",
+    "di_bu": "15",
+    "un_di": "24",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14225",
+    "descripcion": "CAR.HECHIZO SURT x800G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580142251",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "400",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14225",
+    "descripcion": "CAR.HECHIZO SURT x800G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580142254",
+    "um_venta": "DI",
+    "di_bu": "10",
+    "un_di": "400",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14499",
+    "descripcion": "MR POPS TERROR HW x50U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580144996",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "50",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14499",
+    "descripcion": "MR POPS TERROR HW x50U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580144999",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "50",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14520",
+    "descripcion": "TIRABUZON ARCOR x500G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580145023",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14520",
+    "descripcion": "TIRABUZON ARCOR x500G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580145026",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14673",
+    "descripcion": "ROCK PESAD HW x24U",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580146730",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "24",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14673",
+    "descripcion": "ROCK PESAD HW x24U",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580146733",
+    "um_venta": "DI",
+    "di_bu": "12",
+    "un_di": "24",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14694",
+    "descripcion": "CUBANITOS BOB x78G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580146945",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14694",
+    "descripcion": "CUBANITOS BOB x78G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580146948",
+    "um_venta": "UN",
+    "di_bu": "30",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14737",
+    "descripcion": "BUTTER D RELL CH x140G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580147379",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "23",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14737",
+    "descripcion": "BUTTER D RELL CH x140G",
+    "unidad_medida": "Display",
+    "codigo_barra": "7790580147372",
+    "um_venta": "DI",
+    "di_bu": "36",
+    "un_di": "23",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14769",
+    "descripcion": "TURRON ALM/ALIC C/CA x100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580147690",
+    "um_venta": "UN",
+    "di_bu": "35",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14769",
+    "descripcion": "TURRON ALM/ALIC C/CA x100G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580147693",
+    "um_venta": "UN",
+    "di_bu": "35",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14770",
+    "descripcion": "TURRON ALM/ALIC x100G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790580147706",
+    "um_venta": "UN",
+    "di_bu": "35",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "14770",
+    "descripcion": "TURRON ALM/ALIC x100G",
+    "unidad_medida": "Unidad",
+    "codigo_barra": "7790580147709",
+    "um_venta": "UN",
+    "di_bu": "35",
     "un_di": "1",
     "operaciones": "Activo"
   }
