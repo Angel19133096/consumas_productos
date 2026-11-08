@@ -24772,8 +24772,18 @@
   {
     "codigo_producto": "2402",
     "descripcion": "TURRON DE MANI x 280 gr",
-    "unidad_medida": "Display",
+    "unidad_medida": "Bulto",
     "codigo_barra": "17790580240216",
+    "um_venta": "UN",
+    "di_bu": "15",
+    "un_di": "1",
+    "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "2402",
+    "descripcion": "TURRON DE MANI x 280 gr",
+    "unidad_medida": "Display",
+    "codigo_barra": "",
     "um_venta": "UN",
     "di_bu": "15",
     "un_di": "1",
@@ -25228,5 +25238,15 @@
     "di_bu": "35",
     "un_di": "1",
     "operaciones": "Activo"
+  },
+  {
+    "codigo_producto": "15537",
+    "descripcion": "CRIOLLITAS ORIG x300G",
+    "unidad_medida": "Bulto",
+    "codigo_barra": "17790040155371",
+    "um_venta": "DI",
+    "di_bu": "14",
+    "un_di": "1",
+    "operaciones": "Inactivo"
   }
 ]
